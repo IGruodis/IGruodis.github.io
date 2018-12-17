@@ -1,0 +1,54 @@
+		<style>
+
+	h{
+		color:white;
+	}
+	p {
+		color :white;
+	}
+html { 
+  background: url(https://cdn.hipwallpaper.com/i/50/78/tA9EUb.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+}
+	p{font-family:Lucida Console; font-size: 14px; font-weight:bolder; text-align: center}
+	#kurejas {font size:13pt; color:#618685}
+a {
+	text-decoration:none;
+	color:white
+}
+table, td, th {
+	border: 1px solid #bc6807
+}
+table {
+	margin :auto;
+	text-align: center;
+	width:75%
+}
+.pradzia{
+	text-align:center
+}
+.galva {
+	color: white;
+}
+}
+td {
+	color: white
+}
+p1 {
+	text-align:center;
+	color:white
+}
+h1 {
+	font-family:Georgia;
+	color:white
+}
+#autorius
+{
+	text-align:right;
+	text-bottom
+}
+	</style>
